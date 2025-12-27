@@ -81,7 +81,7 @@ ul {
 /* Placeholder background can be replaced by your own image*/
 .hero {
     height: 100vh;
-    background: linear-gradient(rgba(44, 62, 80, 0.9), rgba(44, 62, 80, 0.8)), url('https://via.placeholder.com/1920x1080'); /* Placeholder background */
+    background: linear-gradient(rgba(44, 62, 80, 0.9), rgba(44, 62, 80, 0.8)), url(images/hk_skyline.jpg); /* Placeholder background */
     background-size: cover;
     background-position: center;
     color: var(--white);
