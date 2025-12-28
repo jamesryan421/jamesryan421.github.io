@@ -1,10 +1,10 @@
 /* --- Variables & Reset --- */
 :root {
-    --primary-color: #2c3e50; /* Academic Blue/Grey */
-    --accent-color: #3498db;  /* Bright Blue for links/buttons */
+    --primary-color: #00205B; /* Academic Blue/Grey */
+    --accent-color: #4d9ad4;  /* Bright Blue for links/buttons */
     --text-color: #333;
-    --bg-light: #f4f4f4;
-    --bg-dark: #222;
+    --bg-light: #e0e2e6;
+    --bg-dark: #44474f;
     --white: #fff;
     --font-main: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
